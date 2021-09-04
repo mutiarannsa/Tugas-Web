@@ -1,0 +1,62 @@
+body {
+    font-family:'Helvetica Neue';
+    color: #312e2d;
+}
+
+.header{
+    background-color: #ceb4a7;
+    height: 90px;
+}
+
+.header-logo{
+    font-size: 36px;
+    float: left;
+    padding: 20px 40px;
+}
+
+.header-list li{
+    float: left;
+    padding: 33px 20px;
+}
+
+li{
+    list-style: none;
+}
+
+.main{
+    background-color: #a5a0ab;
+    height: 600px;
+    padding: 100px 80px;
+}
+
+.copy-container h1{
+    font-size: 140px;
+}
+
+.copy-container h2{
+    font-size: 60px;
+}
+
+.copy-container span{
+    color: rgb(151, 65, 65);
+}
+
+.footer{
+    background-color: #5f514f;
+    color :antiquewhite;
+    height: 120px;
+    padding: 40px;
+}
+
+.footer-logo{
+    font-size: 32px;
+    float: left;
+}
+
+.footer-list {
+    float: right;
+}
+
+.footer-list li{
+    padding-bottom: 20px;
+}
